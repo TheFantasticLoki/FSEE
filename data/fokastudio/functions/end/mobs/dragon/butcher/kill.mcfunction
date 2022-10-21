@@ -1,5 +1,5 @@
 kill @s
-execute positioned 0 255 0 run fill ~3 ~ ~3 ~-3 ~-2 ~-3 air
+execute positioned 0 255 0 run fill ~3 ~4 ~3 ~-3 ~-2 ~-3 air
 
 # Clear any vanilla End Gateways
 # 20 total, so 20 incredibly laggy /fill commands
