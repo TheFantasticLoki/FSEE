@@ -3,9 +3,9 @@
 	"input": {
 		"type": "minecraft:y_clamped_gradient",
 		"from_y": 0,
-		"to_y": 256,
+		"to_y": 384,
 		"from_value": 0,
-		"to_value": 256
+		"to_value": 384
 	},
 	"min_inclusive": 0,
 	"max_exclusive": 24,
@@ -15,7 +15,7 @@
 		"argument1": {
 			"type": "minecraft:y_clamped_gradient",
 			"from_y": 0,
-			"to_y": 256,
+			"to_y": 384,
 			"from_value": 1,
 			"to_value": -2
 		},

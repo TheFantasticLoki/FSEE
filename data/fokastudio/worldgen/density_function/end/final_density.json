@@ -32,8 +32,8 @@
 										"type": "minecraft:mul",
 										"argument1": {
 											"type": "minecraft:y_clamped_gradient",
-											"from_y": 145,
-											"to_y": 205,
+											"from_y": 273,
+											"to_y": 333,
 											"from_value": 1,
 											"to_value": 0
 										},

@@ -46,7 +46,9 @@ FUNCTIONS:
 
 
 WORLDGEN:
-	
+	Fantastic Loki - 
+		384 World Height Edits.
+
 	Hex - https://www.planetminecraft.com/member/hex_-now_loading-/
 		Who did you expect here?
 		To not include original creator...
